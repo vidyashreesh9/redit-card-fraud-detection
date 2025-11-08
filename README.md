@@ -1,4 +1,4 @@
-💳 Credit Card Fraud Detection - Full Stack Application
+***💳 Credit Card Fraud Detection - Full Stack Application***
 
 This project is a full-stack web application that uses a machine learning model to detect fraudulent credit card transactions in real-time.
 
